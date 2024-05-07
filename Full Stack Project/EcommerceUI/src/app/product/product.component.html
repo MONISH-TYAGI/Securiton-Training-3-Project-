@@ -1,0 +1,58 @@
+<div class="grid-view" *ngIf="view === 'grid'">
+<div class="card text-center">
+    <div class="card-header fw-bold fs-5 text-success">
+        Header
+    </div>
+    <div class="overflow-hidden d-flex justify-content-center align-items-center">
+        <img src="../../assets/Images/mobiles/10/1.jpg" alt="" class="card-img-top"/>
+    </div>
+
+<div class="card-body">
+    <h5 class="card-title">Title</h5>
+    <h6 class="card-subtitle mb-2 text-muted">12 products are available</h6>
+    <p class="card-text">Description</p>
+</div>
+<div class="card-body">
+<h5 class="card-title text-success">Final Price
+    <span class="text-primary">
+        -20%
+    </span>
+</h5>
+<h6 class="card-subtitle text-danger text-decoration-line-through"> Original Price</h6>
+<div class="card-footer d-grid gap-2">
+    <button class="btn btn-outline-success" type="button">Add to Cart</button>
+</div>
+</div>
+</div>
+</div>
+<div class="list-view" *ngIf="view === 'list'">
+<div class="card">
+    <div class="row">
+        <div class="col-md-4 overflow-hidden d-flex justify-content-center align-items-center">
+            <img src="../../assets/Images/mobiles/10/1.jpg" class="img-fluid rounded-start" alt="Product Image"/>
+    </div>
+    <div class="col">
+           <div class="card-header text-center">
+            Header
+           </div>
+           <div class="card-body">
+            <h5 class="card-title title">Title</h5>
+            <p class="card-text">Description</p>
+            <h6 class="card-subtitle mb-2 text-muted">12 products are available</h6>
+           </div>
+           <div class="card-body">
+            <h4 class="card-title text-muted">Pricing</h4>
+            <h2 class="card-title text-success">
+                Final 
+                <span class="text-primary">
+                    -20%
+                </span>
+            </h2>
+            <h5 class="card-subtitle text-danger text-decoration-line-through">Original Price</h5>
+           </div>
+           <div class="card-footer text-muted d-grid gap-2 ">
+            <button class="btn btn-outline-success" type="button">Add to Cart</button>
+           </div>
+    </div>
+</div>
+</div>
