@@ -8,3 +8,10 @@ body {
 .my-shadow{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
+.modal-backdrop.fade.show{
+    z-index: 19;
+}
+.display-flex
+{
+	display:none;
+}

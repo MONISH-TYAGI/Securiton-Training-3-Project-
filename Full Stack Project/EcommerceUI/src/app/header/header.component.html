@@ -1,0 +1,70 @@
+<header class="w-100 h-100 bg-dark px-4 my-shadow d-flex justify-content-between">
+<div class="text-light fs-2 fw-bold fs-italic">
+    <span>Shopping Point</span>
+</div>
+<div class="btn-toolbar" role="toolbar">
+    <div class="btn-group btn-group-lg me-3" role="group">
+        <button type="button" class="btn btn-outline-light" routerLink="/home">Home </button>
+        <div class="btn-group" role="group">
+            <button type="button" class="btn btn-outline-light dropdown-toggle" data-bs-toggle="dropdown">Categories</button>
+            <ul class="dropdown-menu fs-5">
+                <ng-container *ngFor="let item of navigationList;let i=index;">
+                    <li class="text-center fw-bold">{{item.category|titlecase}}</li>
+                    <li *ngFor="let subcategory of item.subcategories" [style.cursor]="'pointer'">
+                      <a class="dropdown-item" OpenProducts
+                      [category]="{id:0,'category':item.category,'subCategory':subcategory}"
+                      >
+                        {{subcategory|titlecase}}
+                      </a>
+                    </li>
+                    <li *ngFor="i!==navigationList.length-1">
+                        <hr class="dropdown-divider">
+                    </li>
+                    <hr>
+                    </ng-container>
+            </ul>
+        </div>
+    </div>
+    <div class="btn-group btn-group-lg me-2" role="group">
+        <button type="button" class="btn btn-outline-light"
+        data-bs-toggle="modal" data-bs-target="#generalmodal"
+        (click)="openModal('login')"
+        *ngIf="!utilityService.isLoggedIn()"
+        >Login</button>
+        <button type="button" class="btn btn-outline-light"
+        data-bs-toggle="modal" data-bs-target="#generalmodal"
+        (click)="openModal('register')"
+        *ngIf="!utilityService.isLoggedIn()"
+        >Register</button>
+        <button type="button" class="btn btn-outline-light"
+        *ngIf="utilityService.isLoggedIn()"
+        >Account</button>
+        <button type="button" class="btn btn-outline-light" routerLink="/cart"
+        *ngIf="utilityService.isLoggedIn()"
+        >Cart</button>
+        <button type="button" class="btn btn-outline-light" routerLink="/orders"
+          *ngIf="utilityService.isLoggedIn()"
+          >Orders</button>
+        <button type="button" class="btn btn-outline-light"
+        *ngIf="utilityService.isLoggedIn()"
+        (click)="utilityService.logoutUser()"
+        >Logout</button>
+    </div>
+</div>
+</header>
+
+
+<!-- Modal -->
+<div class="modal fade" id="generalmodal" tabindex="-1" data-bs-backdrop="static" data-bs-keyboard="false">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title " #modalTitle></h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <ng-container #container></ng-container>
+        </div>
+      </div>
+    </div>
+  </div>

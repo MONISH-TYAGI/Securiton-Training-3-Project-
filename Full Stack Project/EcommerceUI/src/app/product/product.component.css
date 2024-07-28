@@ -6,6 +6,16 @@
     box-shadow: 0px 0px 0.75rem rgba(0, 0, 0, 0.3);
     transistion:transform 200ms ease-in-out;
 }
+/* Example CSS code */
+.selector {
+  /* Trailing zeros in numeric values */
+  padding: 15.000px;
+  font-size: 12.0em;
+  /* No trailing zeros */
+  margin: 20px;
+  line-height: 1.5;
+}
+
 :host:hover{
     transform: scale(1.03);
 }
@@ -15,4 +25,19 @@ img{
 }
 img:hover{
     transform: scale(1.05);
+}
+.grid-view .description,
+.grid-view .title{
+    height:50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.list-view .title{
+    height: 50px;
+    overflow: hidden;
+}
+.list-view .description{
+    height: 75px;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }

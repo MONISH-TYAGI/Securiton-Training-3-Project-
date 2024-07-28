@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="4.3">
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\styles.css">
+    <error source="stylelint.rules.alpha-value-notation" line="9" column="44" severity="error" message="Expected &quot;0.3&quot; to be &quot;30%&quot; (alpha-value-notation)" />
+    <error source="stylelint.rules.color-function-notation" line="9" column="30" severity="error" message="Expected modern color-function notation (color-function-notation)" />
+    <error source="stylelint.rules.font-family-name-quotes" line="3" column="18" severity="error" message="Unexpected quotes around &quot;Poppins&quot; (font-family-name-quotes)" />
+    <error source="stylelint.rules.length-zero-no-unit" line="9" column="18" severity="error" message="Unexpected unit (length-zero-no-unit)" />
+    <error source="stylelint.rules.length-zero-no-unit" line="9" column="22" severity="error" message="Unexpected unit (length-zero-no-unit)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="5" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="8" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="11" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\app.component.css"></file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\cart\cart.component.css">
+    <error source="stylelint.rules.no-empty-source" line="1" column="1" severity="error" message="Unexpected empty source (no-empty-source)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\footer\footer.component.css">
+    <error source="stylelint.rules.no-empty-source" line="1" column="1" severity="error" message="Unexpected empty source (no-empty-source)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\header\header.component.css"></file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\home\home.component.css"></file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\order\order.component.css">
+    <error source="stylelint.rules.no-empty-source" line="1" column="1" severity="error" message="Unexpected empty source (no-empty-source)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\page-not-found\page-not-found.component.css">
+    <error source="stylelint.rules.no-empty-source" line="1" column="1" severity="error" message="Unexpected empty source (no-empty-source)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\product\product.component.css">
+    <error source="stylelint.rules.alpha-value-notation" line="6" column="47" severity="error" message="Expected &quot;0.3&quot; to be &quot;30%&quot; (alpha-value-notation)" />
+    <error source="stylelint.rules.color-function-notation" line="6" column="33" severity="error" message="Expected modern color-function notation (color-function-notation)" />
+    <error source="stylelint.rules.comment-empty-line-before" line="9" column="1" severity="error" message="Expected empty line before comment (comment-empty-line-before)" />
+    <error source="stylelint.rules.comment-empty-line-before" line="14" column="3" severity="error" message="Expected empty line before comment (comment-empty-line-before)" />
+    <error source="stylelint.rules.length-zero-no-unit" line="6" column="18" severity="error" message="Unexpected unit (length-zero-no-unit)" />
+    <error source="stylelint.rules.length-zero-no-unit" line="6" column="22" severity="error" message="Unexpected unit (length-zero-no-unit)" />
+    <error source="stylelint.rules.property-no-unknown" line="7" column="5" severity="error" message="Unexpected unknown property &quot;transistion&quot; (property-no-unknown)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="22" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="26" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="29" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="35" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="39" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\product-details\product-details.component.css">
+    <error source="stylelint.rules.alpha-value-notation" line="5" column="40" severity="error" message="Expected &quot;0.5&quot; to be &quot;50%&quot; (alpha-value-notation)" />
+    <error source="stylelint.rules.color-function-notation" line="5" column="29" severity="error" message="Expected modern color-function notation (color-function-notation)" />
+    <error source="stylelint.rules.length-zero-no-unit" line="5" column="18" severity="error" message="Unexpected unit (length-zero-no-unit)" />
+    <error source="stylelint.rules.length-zero-no-unit" line="5" column="22" severity="error" message="Unexpected unit (length-zero-no-unit)" />
+    <error source="stylelint.rules.rule-empty-line-before" line="7" column="1" severity="error" message="Expected empty line before rule (rule-empty-line-before)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\products\products.component.css">
+    <error source="stylelint.rules.no-empty-source" line="1" column="1" severity="error" message="Unexpected empty source (no-empty-source)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\suggested-products\suggested-products.component.css">
+    <error source="stylelint.rules.no-empty-source" line="1" column="1" severity="error" message="Unexpected empty source (no-empty-source)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\cart\login\login.component.css">
+    <error source="stylelint.rules.no-empty-source" line="1" column="1" severity="error" message="Unexpected empty source (no-empty-source)" />
+  </file>
+  <file name="E:\Training 2\Full Stack Project\EcommerceUI\src\app\cart\register\register.component.css">
+    <error source="stylelint.rules.no-empty-source" line="1" column="1" severity="error" message="Unexpected empty source (no-empty-source)" />
+  </file>
+</checkstyle>

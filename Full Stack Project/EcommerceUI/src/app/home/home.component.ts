@@ -12,7 +12,7 @@ suggestedProducts:SuggestedProduct[]=[
   category:{
     id:1,
     category:'electronics',
-    subcategory:'mobiles'
+    subCategory:'mobiles'
   },
 },
 {
@@ -20,14 +20,14 @@ suggestedProducts:SuggestedProduct[]=[
   category:{
     id:1,
     category:'Electronics',
-    subcategory:'laptops'
+    subCategory:'laptops'
   },
 },{
   banerimage:'Baner/Baner_Chair.png',
   category:{
     id:1,
     category:'furniture',
-    subcategory:'chairs'
+    subCategory:'chairs'
   },
 }
 ];

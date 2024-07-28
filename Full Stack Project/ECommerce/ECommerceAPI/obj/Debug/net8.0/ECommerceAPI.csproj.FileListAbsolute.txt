@@ -1,0 +1,93 @@
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\appsettings.json
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.exe
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.deps.json
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.runtimeconfig.json
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.pdb
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.csproj.AssemblyReference.cache
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.AssemblyInfoInputs.cache
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.AssemblyInfo.cs
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.csproj.CoreCompileInputs.cache
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceAPI.props
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceAPI.props
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceAPI.props
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\scopedcss\bundle\ECommerceAPI.styles.css
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerc.83EB260D.Up2Date
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\refint\ECommerceAPI.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.pdb
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.genruntimeconfig.cache
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\obj\Debug\net8.0\ref\ECommerceAPI.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Securiton Task\Task6 Sonarqube\ECommerceAPI\ECommerceAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\appsettings.json
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.exe
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.deps.json
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.runtimeconfig.json
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\ECommerceAPI.pdb
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.csproj.AssemblyReference.cache
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.AssemblyInfoInputs.cache
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.AssemblyInfo.cs
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.csproj.CoreCompileInputs.cache
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.sourcelink.json
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\staticwebassets\msbuild.ECommerceAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ECommerceAPI.props
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ECommerceAPI.props
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ECommerceAPI.props
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\scopedcss\bundle\ECommerceAPI.styles.css
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerc.83EB260D.Up2Date
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\refint\ECommerceAPI.dll
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.pdb
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ECommerceAPI.genruntimeconfig.cache
+E:\Training 2\Full Stack Project\ECommerce\ECommerceAPI\obj\Debug\net8.0\ref\ECommerceAPI.dll

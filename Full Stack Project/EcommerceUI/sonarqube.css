@@ -1,0 +1,18 @@
+.abc{
+	margin:150px !important;
+}
+.display-flex
+{
+	display:none;
+}
+
+.example {
+    /* Trailing zero in margin property */
+    margin: 20.000px;
+}
+.abcd {
+    color: #fff; /* This should trigger the rule */
+}
+.another-class {
+    font-size: 1.2em; /* Issue: Should use 'px' unit */
+}

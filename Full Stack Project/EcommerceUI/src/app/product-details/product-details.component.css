@@ -1,0 +1,17 @@
+.image-thumbnails>img{
+    width:17%;
+    cursor:pointer;
+    transition: transform 100ms ease-in-out;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+}
+.image-thumbnails>img:hover{
+    transform: scale(1.08);
+}
+.example {
+    /* Trailing zero in margin property */
+    margin: 20.000px;
+    /* Trailing zero in padding property */
+    padding: 15.0em;
+    /* Trailing zero in font-size property */
+    font-size: 12.00pt;
+}
