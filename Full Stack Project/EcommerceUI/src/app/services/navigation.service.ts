@@ -1,6 +1,6 @@
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Category, User } from '../model/models';
+import { Category, Order, Payment, PaymentMethod, User } from '../model/models';
 import { map } from 'rxjs';
 
 @Injectable({
@@ -106,5 +106,46 @@ baseUrl="https://localhost:7254/api/Shopping/"
   let url=this.baseUrl+'GetProductReviews/'+productId;
   return this.http.get(url);
 }
+
+addToCart(userId:number,productId:number)
+{
+  let url=this.baseUrl+'InsertCartItem/'+ userId+'/'+productId;
+  return this.http.post(url,{responseType:'text'});
+}
+getActiveCartOfUser(userid:number)
+{
+  let url=this.baseUrl+'GetActiveCartOfUser/'+userid;
+  return this.http.get(url);
+}
+getAllPreviousCarts(userid:number)
+{
+  let url=this.baseUrl+'GetAllPreviousCartsOfUser/'+userid;
+  return this.http.get(url);
+}
+
+getPaymentMethods()
+{
+  let url=this.baseUrl+'GetPaymentMethods';
+  return this.http.get<PaymentMethod[]>(url);
+}
+insertPayment(payment:Payment)
+{
+  return this.http.post(this.baseUrl+'InsertPayment',payment,
+    {
+      responseType:'text'
+    }
+  );
+}
+insertOrder(Order:Order)
+{
+  return this.http.post(this.baseUrl+'InsertOrder',Order,
+    {
+      responseType:'text'
+    }
+  );
+}
+
   } 
+
+
 

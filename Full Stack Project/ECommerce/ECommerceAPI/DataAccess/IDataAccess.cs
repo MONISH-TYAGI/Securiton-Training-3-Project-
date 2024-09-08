@@ -1,4 +1,5 @@
-﻿using ECommerceAPI.Models;
+﻿using ECommerce.API.Models;
+using ECommerceAPI.Models;
 
 namespace ECommerceAPI.DataAccess
 {
@@ -14,5 +15,13 @@ namespace ECommerceAPI.DataAccess
         void InsertReview(Review review);
         List<Review> GetProductReviews(int productId);
         User GetUser(int id);
+
+        bool InsertCartItem(int userId, int productId);
+        Cart GetActiveCartOfUser(int userId);
+        Cart GetCart(int cartId);
+        List<Cart> GetAllPreviousCartsOfUser(int userId);
+        List<PaymentMethod> GetPaymentMethods();
+        int InsertPayment(Payment payment);
+        int InsertOrder(Order order);
     }
 }

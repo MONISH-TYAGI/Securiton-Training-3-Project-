@@ -30,7 +30,10 @@
         <div class="card-body">
             <h1 class="card-subtitle my-2 text-primary">11 products are available</h1>
             <div class="d-grid gap-2">
-              <button type="button" clas="btn btn-outline-success" [disabled]="!utilityService.isLoggedIn()">Add to Cart
+              <button type="button" clas="btn btn-outline-success" [disabled]="!utilityService.isLoggedIn()"
+              (click)="this.utilityService.addToCart(product)"
+              
+              >Add to Cart
          <span class="text-danger" *ngIf="!utilityService.isLoggedIn()">(Login First)</span>
         </button>
             </div>

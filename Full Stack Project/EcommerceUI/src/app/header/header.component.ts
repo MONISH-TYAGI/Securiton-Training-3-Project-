@@ -14,6 +14,7 @@ export class HeaderComponent implements OnInit{
   @ViewChild('modalTitle') modalTitle!:ElementRef;
   @ViewChild('container',{read:ViewContainerRef,static:true})
   container!:ViewContainerRef;
+  cartItems:number=0;
 navigationList:NavigationItem[]=[
 
 ];
@@ -42,7 +43,20 @@ ngOnInit(): void {
           }
       }
       console.log("length"+this.navigationList.length)
+      this.utilityService.changeCart.subscribe((res:any)=>{
+        if(parseInt(res)===0) this.cartItems=0;
+        else
+            this.cartItems+=parseInt(res);
+      });
     });
+
+    if(this.utilityService.isLoggedIn()){
+      this.navigationService.getActiveCartOfUser(this.utilityService.getUser().id).subscribe((res:any)=>{
+        console.log("res"+res);
+        console.log("res"+JSON.stringify(res));
+        this.cartItems=res.cartItems.length;
+      });
+    }
   
 }
 openModal(name:string)

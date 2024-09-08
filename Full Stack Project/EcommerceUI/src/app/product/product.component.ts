@@ -9,7 +9,7 @@ import { UtilityService } from '../services/utility.service';
 })
 export class ProductComponent implements OnInit {
   constructor(public utilityService: UtilityService) { } 
-  @Input() view:'grid'|'list' | 'currcartItem' | 'prevcartItem'='grid';
+  @Input() view:'grid'|'list' | 'currcartItem' | 'prevcartItem'='list';
   @Input() product:Product={
     id:0,
     title:'',
